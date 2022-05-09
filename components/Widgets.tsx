@@ -15,7 +15,7 @@ function Widgets() {
       <TwitterTimelineEmbed
         sourceType="profile"
         screenName="saurabhnemade"
-        options={{height: 400}}
+        autoHeight={true}
       />
     </div>
   )
